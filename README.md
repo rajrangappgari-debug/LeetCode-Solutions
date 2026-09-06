@@ -9,6 +9,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
