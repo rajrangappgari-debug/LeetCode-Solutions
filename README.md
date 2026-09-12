@@ -45,6 +45,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
