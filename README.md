@@ -8,6 +8,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -61,4 +62,8 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
