@@ -12,6 +12,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -55,6 +56,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
