@@ -8,6 +8,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -74,4 +75,8 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
