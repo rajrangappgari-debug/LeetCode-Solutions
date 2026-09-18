@@ -9,6 +9,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -46,6 +47,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0283-move-zeroes](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -79,4 +82,12 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
