@@ -11,6 +11,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0066-plus-one](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -31,6 +32,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -48,6 +50,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
