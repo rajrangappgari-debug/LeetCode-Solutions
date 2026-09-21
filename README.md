@@ -17,6 +17,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0704-binary-search](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
