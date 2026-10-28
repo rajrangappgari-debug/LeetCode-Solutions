@@ -6,6 +6,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -24,6 +25,7 @@ A collection of my accepted LeetCode solutions, automatically synchronized to tr
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajrangappgari-debug/LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
